@@ -1,0 +1,130 @@
+[
+  {
+    "nombre": "Taller de Diseño Gráfico V",
+    "codigo": "DGP501",
+    "creditaje": 9,
+    "directas": 6,
+    "dedicacion": [
+      {
+      "nombre": "Felipe Cabello",
+        "horas": [
+          12,
+          14,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Seminario Gráfica Computacional I",
+    "codigo": "DGP502",
+    "creditaje": 3,
+    "directas": 3,
+    "dedicacion": [
+      {
+        "nombre": "Felipe Cabello",
+        "horas": [
+          3,
+          4,
+          3
+        ]
+      }
+     ]
+  },
+  {
+    "nombre": "Seminario Producción Audiovisual I",
+    "codigo": "DGP503",
+    "creditaje": 3,
+    "directas": 3,
+    "dedicacion": [
+      {
+        "nombre": "Felipe Cabello",
+        "horas": [
+          5,
+          5,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Seminario de Diseño Gráfico I",
+    "codigo": "DGP504",
+    "creditaje": 5,
+    "directas": 3,
+    "dedicacion": [
+      {
+        "nombre": "Felipe Cabello",
+        "horas": [
+          8,
+          7,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Publicidad",
+    "codigo": "DGP505",
+    "creditaje": 3,
+    "directas": 3,
+    "dedicacion": [
+      {
+        "nombre": "Felipe Cabello",
+        "horas": [
+          9,
+          3,
+          3
+        ]
+      }
+    ]
+  },
+  {
+     "nombre": "Seminario de Gestión I",
+    "codigo": "DGP506",
+    "creditaje": 3,
+    "directas": 3,
+    "dedicacion": [
+      {
+        "nombre": "Felipe Cabello",
+        "horas": [
+          4,
+          4,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Práctica Profesional I",
+    "codigo": "DGP507",
+    "creditaje": 2,
+    "directas": 0,
+    "dedicacion": [
+      {
+        "nombre": "Felipe Cabello",
+        "horas": [
+          5,
+          0,
+          16
+        ]
+      }
+    ]
+  },
+  {
+     "nombre": "Inglés I",
+    "codigo": "AU050001-2",
+    "creditaje": 3,
+    "directas": 3,
+    "dedicacion": [
+      {
+        "nombre": "Felipe Cabello",
+        "horas": [
+          4,
+          4,
+          4
+        ]
+      }
+    ]
+  }
+]
